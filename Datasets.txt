@@ -1,0 +1,6 @@
+Datasets:
+
+The dataset of heat treatment of electroless Ni-P nano coatings generated during and analyzed during the current study is available from the first author upon reasonable request. The datasets of letter recognition, combined cycle power plant, and Seoul bike sharing demand analyzed during the current study are available in the UC Irvine Machine Learning Repository through the following links: 
+https://archive.ics.uci.edu/ml/datasets/letter+recognition
+https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
+

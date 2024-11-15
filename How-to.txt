@@ -1,0 +1,7 @@
+How to use the implemented architectures:
+
+1.	Load the input data into the inputdata array
+2.	Load the output data into the outputdata array
+3.	Write a for loop and send each datapoint to the backpropagation function and train the architecture
+4.	Write a for loop and send each datapoint to the compute_output function and compute the RMSe
+
